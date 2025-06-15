@@ -4,10 +4,10 @@ Este projeto consiste no desenvolvimento de um sistema para gerenciamento de est
 
  Tecnologias Utilizadas
 
-  NET 8
-  C#
-  SQL Server
-  Programação Orientada a Objetos (POO)
+  NET 8 / 
+  C# /
+  SQL Server / 
+  Programação Orientada a Objetos (POO) /
  
 
 ---
