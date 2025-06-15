@@ -32,11 +32,26 @@ Chapas
 
 ---
 
+### Pré-requisitos:
+
+NET 8 SDK instalado
+SQL Server instalado ou disponível
+Visual Studio, Visual Studio Code ou outro editor compatível
+
+Passos:
+
+1. Clone o repositório:
+bash
+git clone https://github.com/pedromuchelin/marmoreg
+
 # Desenvolvedores
 
 FELIPE DE OLIVEIRA LIMA
+
 FELIPE SABINO MARABOTI
+
 PEDRO JOSÉ MUCHELIN
+
 SAMUEL MOTA MOYESÉS
 
 
