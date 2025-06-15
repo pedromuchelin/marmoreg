@@ -40,7 +40,7 @@ Visual Studio, Visual Studio Code ou outro editor compatível
 
 Passos:
 
-1. Clone o repositório:
+Clone o repositório:
 bash
 git clone https://github.com/pedromuchelin/marmoreg
 
